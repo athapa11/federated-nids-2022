@@ -1,5 +1,5 @@
 ﻿# Master Thesis Project
-The repository contains my thesis project which focuses on implementing a federated learning framework [Flower](https://flower.dev/), using virtual clients for classifying network intrusions. 
+The repository contains my thesis project which focuses on implementing a federated learning framework [Flower](https://flower.dev/), using virtual clients to classifynetwork intrusions. 
 
 The dataset used to conduct this research can be found [here](https://www.kaggle.com/datasets/ymirsky/network-attack-dataset-kitsune).
 

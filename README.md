@@ -1,5 +1,6 @@
 ﻿# Master Thesis Project
 The following thesis focuses on exploring federated learning using virtual clients for classifying network intrusions. 
+
 The dataset used to conduct this research can be found [here](https://www.kaggle.com/datasets/ymirsky/network-attack-dataset-kitsune).
 
 # Abstract

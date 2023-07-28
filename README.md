@@ -9,7 +9,7 @@ strategies as an alternative to traditional machine learning methods, with a spe
 by Internet of Things (IoT) devices. Although centralised learning demonstrated marginally superior overall accuracy, federated learning proved to be more effective in identifying a wider range of network intrusions, especially
 within minority classes. Among the examined federated learning strategies, FedAvg delivered superior performance with feature selection, whereas FedProx showed strength when all features were considered. Challenges encountered included memory constraints posed by the use of virtual clients.
 
-# Code Guidance
+# Overview
 1. The code has been developed in Google Colab as a Jupyter Notebook file.
 2. The following libraries were used:
    * flwr

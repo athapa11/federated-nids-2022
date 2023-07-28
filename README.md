@@ -1,5 +1,5 @@
 ﻿# Master Thesis Project
-
+The following thesis focuses on exploring federated learning using virtual clients for classifying network intrusions. 
 
 # Abstract
 The thesis offers a comprehensive investigation into the strengths and weaknesses of federated learning, a decentralised approach to machine learning. It focuses on the feasibility and effectiveness of various federated learning

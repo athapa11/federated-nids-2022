@@ -10,19 +10,19 @@ by Internet of Things (IoT) devices. Although centralised learning demonstrated 
 within minority classes. Among the examined federated learning strategies, FedAvg delivered superior performance with feature selection, whereas FedProx showed strength when all features were considered. Challenges encountered included memory constraints posed by the use of virtual clients.
 
 # Overview
-1. The code has been developed in Google Colab as a Jupyter Notebook file.
-2. The following libraries were used:
-   * flwr
-   * math
-   * NumPy
-   * pandas
-   * concurrent.futures (Optional - to parallelise tasks)
-   * sklearn (Scikit-learn)
-   * imblearn (Imbalance-learn)
-   * fast_ml
-   * torch
-   * torchvision
-   * collections
-   * typing
-   * matplotlib
-   * seaborn
+The code has been developed in Python on Google Colab as a Jupyter Notebook file.
+The following libraries were used:
+ * flwr
+ * math
+ * NumPy
+ * pandas
+ * concurrent.futures (Optional - to parallelise tasks)
+ * sklearn (Scikit-learn)
+ * imblearn (Imbalance-learn)
+ * fast_ml
+ * torch
+ * torchvision
+ * collections
+ * typing
+ * matplotlib
+ * seaborn

@@ -11,6 +11,7 @@ within minority classes. Among the examined federated learning strategies, FedAv
 
 # Overview
 The code has been developed in Python on Google Colab as a Jupyter Notebook file.
+
 The following libraries were used:
  * flwr
  * math

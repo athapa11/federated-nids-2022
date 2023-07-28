@@ -1,4 +1,4 @@
-﻿# federated-nids--thesis
+﻿# Master Thesis Project
 
 
 # Abstract

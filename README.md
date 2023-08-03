@@ -11,7 +11,7 @@ within minority classes. Among the examined federated learning strategies, FedAv
 The code has been developed in Python on Google Colab as a Jupyter Notebook file. The dataset used to conduct this research can be found [here](https://www.kaggle.com/datasets/ymirsky/network-attack-dataset-kitsune).
 
 The following libraries were used:
- * flwr
+ * flwr (Flower)
  * math
  * NumPy
  * pandas
@@ -19,8 +19,7 @@ The following libraries were used:
  * sklearn (Scikit-learn)
  * imblearn (Imbalance-learn)
  * fast_ml
- * torch
- * torchvision
+ * torch (PyTorch)
  * collections
  * typing
  * matplotlib

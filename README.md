@@ -1,4 +1,4 @@
-﻿# Master Thesis Project
+﻿# [Federated Learning For Classifying Network Intrusions](https://github.com/athapa11/federated-nids-2022/blob/main/B922168_22COD290_2.pdf)
 The repository contains my thesis project which focuses on implementing a federated learning framework [Flower](https://flower.dev/), using virtual clients to classify various network intrusions for Network Intrusion Detection Systems (NIDS). The objective is to explore the feasibility of multiple federated learning strategies, namely FedAvg, FedProx, and FedAdagrad.
 
 # Abstract
